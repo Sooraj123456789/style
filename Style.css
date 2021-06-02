@@ -1,0 +1,52 @@
+body {
+  background:url('./bg.jpg') no-repeat;
+  background-size: cover;
+}
+#heading1{
+  color: #0000A0;
+  font-size: 30px;
+  font-style:Verdana;
+  padding-left: 150px;;
+}
+#para1{
+  font-size: 15px;
+  padding-left: 50px;
+  font-weight: bold;
+}
+
+#para22{
+  padding-left: 50px;
+  font-size: 15px;
+  font-weight: bold;
+}
+#u{
+  font-size: 16px;
+  width: 41%;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+
+}
+#p{
+  font-size: 16px;
+  width: 41%;
+  border: 0;
+  outline: none;
+  border-radius: 5px;
+}
+
+
+
+
+
+#submit {
+  font-size: 15px;
+  padding-right: 60px;
+  width: 70%;
+  font-weight: bold;
+  margin: 120px 0;
+  border-radius: 3px;
+  border: 0;
+  background-color:#fff;
+  
+}
